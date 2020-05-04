@@ -5,12 +5,12 @@ The goal of this lab - parsing web-data and assembling it into dataframe with ge
 an appropriate clustering k-mean model. It requires 3 steps.
 
 # Stage 1
-DP0701EN-3-Toronto-Clustering-Project
+DP0701EN-3-1-Toronto-Clustering-Project
 
 Parsing data from html table in Wikipedia and reformatting it
 
 # Stage 2
----------
+DP0701EN-3-2-Toronto-Clustering-Project
 
 Add geo-data to existing post data
 
