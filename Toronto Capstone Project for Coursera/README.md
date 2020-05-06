@@ -1,6 +1,6 @@
 # Coursera Capstone
 
-This is public repo for the Machine Learning courses.
+This is project for the Machine Learning courses.
 The goal of this lab - parsing web-data and assembling it into dataframe with geolocation coordinates to build
 an appropriate clustering k-means model. It requires 3 steps.
 
@@ -21,4 +21,4 @@ Add geo-data to existing post data
 # Stage 3
 DP0701EN-3-3-Toronto-Clustering-Project
 
-Building a model and visualisation of clusters
+Building a model and visualisation of clusters on map
