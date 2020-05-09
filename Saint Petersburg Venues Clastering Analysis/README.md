@@ -9,7 +9,7 @@ The problem of this project is to define better neighborhood for opening a new h
 4.	Similar pricing policy of nearest venues
 
 
-#Data section
+# Data section
 
 For this project we will use data:
 -	Foursquare data about venues (via Foursquare API)
