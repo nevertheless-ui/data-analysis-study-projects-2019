@@ -14,6 +14,6 @@ The problem of this project is to define better neighborhood for opening a new h
 For this project we will use data:
 -	Foursquare data about venues (via Foursquare API)
 -	Administrative divisions of Saint Petersburg (parsed directly from Wikipedia with BeautifulSoup4 library)
--	Statistics data of weighted income from Official Statistics Department of Russia in Saint Petersburg from jan to sept 2018
+-	Statistical data of average income from Official Statistics Department of Russia in Saint Petersburg from jan to sept 2018
 -	Price of land from Rusland SP
 -	Price of land from Restate agency
