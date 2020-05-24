@@ -1,2 +1,5 @@
+# JupNb backups
 .ipynb_checkpoints/*
+
+# Credentials for APIs
 credentials.xml
