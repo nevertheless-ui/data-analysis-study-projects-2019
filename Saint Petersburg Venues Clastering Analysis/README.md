@@ -7,6 +7,8 @@ The problem of this project is to define better neighborhood for opening a new h
 2.	Total population of neighborhoods
 3.	Less possible competitive venues along the area
 4.	Similar pricing policy of nearest venues
+5.      What kind of venues are popular in Saint-Petersburg
+6.      What kind of restaurant would be more appropriate for target location
 
 
 # Data section
